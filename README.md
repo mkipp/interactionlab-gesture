@@ -4,3 +4,13 @@
 of Applied Sciences.
 
 Also see the lecture notes for Interaction Engineering: http://michaelkipp.de/interaction
+
+## FingerCursorSimple
+
+This program takes the x/y coordinates of the index finger and draws a red
+cursor at this position.
+
+Pressing any key on the keyboard switches on/off the visualization of the
+hand/s.
+
+![Screen shot of FingerCursorSimple](img/fingercursor.png)
