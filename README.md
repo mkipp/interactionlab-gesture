@@ -7,6 +7,8 @@ Also see the lecture notes for Interaction Engineering: http://michaelkipp.de/in
 
 ## FingerCursorSimple
 
+Requires the library "Leap Motion for Processing" (author: Darius Morawiec).
+
 This program takes the x/y coordinates of the index finger and draws a red
 cursor at this position.
 
